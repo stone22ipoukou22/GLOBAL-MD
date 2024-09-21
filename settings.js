@@ -1,5 +1,3 @@
-
-
 const fs = require('fs');
 const chalk = require('chalk');
 
@@ -9,7 +7,7 @@ global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
 global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
+global.botname = 'DATA JOKER' //ur bot name
 global.ownernumber = ['242066328691'] //ur owner number, dont add more than one
 global.ownername = '© GlobalTechInfo' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
@@ -20,7 +18,7 @@ global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
 global.author = "GlobalTechInfo\n\n+242066328691"
 global.creator = "242066328691@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '!'
 global.premium = ["242066328691"] // Premium User
 
 //channel id
@@ -34,7 +32,7 @@ global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '91' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 
-global.listv = ['➜','☞','㉨','✪','✯','益','⊡','☆','ෆ','✎','⎆','⫹⫺','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆','֎','ᚏ','⸙','⧉']
+global.listv = ['!']
 global.tempatDB = 'database.json'
 
 global.limit = {
